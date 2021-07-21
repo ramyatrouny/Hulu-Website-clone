@@ -1,7 +1,11 @@
 # Hulu Website clone
 
-A pure HTML/CSS Hulu website clone
+A pure HTML/CSS Hulu website clone.
 
+## Demo
+You can check the website demo on this url: [Hulu Clone](https://clonehulu.netlify.app)
+
+![Hulu Clone](/img/screen.png 'Hulu Clone')
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
